@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oonivotah.dedecentralen.nl/sitemap.xml
